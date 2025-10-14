@@ -1,4 +1,4 @@
-namespace HealthCareSystem;
+namespace HealthSystem;
 
 interface IUser
 {
